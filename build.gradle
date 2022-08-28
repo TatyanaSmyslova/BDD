@@ -19,8 +19,6 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok:1.18.24'
     testCompileOnly 'org.projectlombok:lombok:1.18.24'
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.24'
-
-    testImplementation 'org.slf4j:slf4j-simple:1.7.36'
 }
 
 test {
